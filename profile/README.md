@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Hello!
+### We are the https://Steam.Design team.
+What does SAPIC stand for? Well... It's our old name! It stands for Steam Artwork Profile Image Cropper!
+We started as a simple website for cropping Steam profile backgrounds into showcases, and now we've grown to do multiple projects relating to Steam profiles, and image cropping in general!
